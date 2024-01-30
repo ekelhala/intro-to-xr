@@ -5,7 +5,6 @@ using UnityEngine.InputSystem;
 
 public class SwitchPosition : MonoBehaviour
 {
-    public GameObject rig;
     public InputActionReference action;
     private bool state = true;
 
